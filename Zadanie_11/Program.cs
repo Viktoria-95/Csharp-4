@@ -6,7 +6,7 @@
 Console.WriteLine("Введите число: ");
 uint N = Convert.ToUInt32(Console.ReadLine()); // uint - тип данных который выводит положительные целые числа
 
-for (int i = 1; i <= N; i++) //
+for (int i = 1; i <= N; i++) // задаем цикил
 {
-    Console.Write($" {i*i*i} "); //
+    Console.Write($" {i*i*i} "); // высчитываем куб
 }
