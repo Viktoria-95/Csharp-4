@@ -4,15 +4,14 @@
 
 // нужно задать массив равный 8 
 
-Random array = new Random();
+// Random array = new Random();
 
-int[] n = new int [8];
-for (int i = 0; i < n.Length; i++)
-{
-    n[i] = array.Next(1,19);
-    Console.Write($" { n[i] } ");
-}
-
+// int[] n = new int [8];
+// for (int i = 0; i < n.Length; i++)
+// {
+//     n[i] = array.Next(1,19);
+//     Console.Write($" { n[i] } ");
+// }
 
 
 

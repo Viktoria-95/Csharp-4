@@ -3,9 +3,6 @@
 // 82 -> 10
 // 9012 -> 12
 
-// Console.WriteLine("Введите первое число ");
-// int num1 = Convert.ToInt32(Console.ReadLine());
-
 int n = ReadInt("Введите число: ");
 int len = NumberLen(n);
 SumNumbers(n, len);
