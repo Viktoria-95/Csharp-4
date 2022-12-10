@@ -4,14 +4,23 @@
 
 // нужно задать массив равный 8 
 
-// Random array = new Random();
+Random array = new Random();
+Console.WriteLine("Введите длину массива: ");
+int lenght = Convert.ToInt32(Console.ReadLine());
 
-// int[] n = new int [8];
-// for (int i = 0; i < n.Length; i++)
+int[] n = new int [lenght];
+for (int i = 0; i < n.Length; i++)
+{
+    n[i] = array.Next(0, 100);
+    Console.Write($" { n[i] } ");
+}
+
+
+// int[] GetArray(int lenght)
 // {
-//     n[i] = array.Next(1,19);
-//     Console.Write($" { n[i] } ");
+//     int[] array = new int[lenght];
+//     for (int i = 0; i < lenght; i++)
+//         array[i] = new Random().Next(100, 1001);
+//     Console.WriteLine(string.Join(",", array));
+//     return array;
 // }
-
-
-
