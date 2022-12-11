@@ -21,14 +21,14 @@ switch(n)
 
 
 
-void Task1()
+void Task1() // Задача 34
 {
     Console.WriteLine("Введите длину массива: ");
     int lenght = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine(EvenNumber(GetArray(lenght)));
 }
 
-void Task2()
+void Task2() // Задача 36
 {
     Console.WriteLine("Задайте длину массива: ");
     int lenght = Convert.ToInt32(Console.ReadLine());
@@ -39,7 +39,7 @@ void Task2()
     Console.WriteLine(oddIndex(GetRandomArray(lenght, Left_RANGER, Right_RANGER)));
 }
 
-void Task3()
+void Task3() // Задача 38
 {
     Console.WriteLine("Задайте длину массива: ");
     int lenght = Convert.ToInt32(Console.ReadLine());
