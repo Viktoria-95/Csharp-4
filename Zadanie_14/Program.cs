@@ -15,12 +15,3 @@ for (int i = 0; i < n.Length; i++)
     Console.Write($" { n[i] } ");
 }
 
-
-// int[] GetArray(int lenght)
-// {
-//     int[] array = new int[lenght];
-//     for (int i = 0; i < lenght; i++)
-//         array[i] = new Random().Next(100, 1001);
-//     Console.WriteLine(string.Join(",", array));
-//     return array;
-// }
