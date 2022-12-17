@@ -1,0 +1,15 @@
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\bin\Debug\net6.0\Zadanie_18.exe
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\bin\Debug\net6.0\Zadanie_18.deps.json
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\bin\Debug\net6.0\Zadanie_18.runtimeconfig.json
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\bin\Debug\net6.0\Zadanie_18.dll
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\bin\Debug\net6.0\Zadanie_18.pdb
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\obj\Debug\net6.0\Zadanie_18.csproj.AssemblyReference.cache
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\obj\Debug\net6.0\Zadanie_18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\obj\Debug\net6.0\Zadanie_18.AssemblyInfoInputs.cache
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\obj\Debug\net6.0\Zadanie_18.AssemblyInfo.cs
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\obj\Debug\net6.0\Zadanie_18.csproj.CoreCompileInputs.cache
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\obj\Debug\net6.0\Zadanie_18.dll
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\obj\Debug\net6.0\refint\Zadanie_18.dll
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\obj\Debug\net6.0\Zadanie_18.pdb
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\obj\Debug\net6.0\Zadanie_18.genruntimeconfig.cache
+D:\Git repozit\Csharp-4\Csharp-4\Zadanie_18\obj\Debug\net6.0\ref\Zadanie_18.dll
